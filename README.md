@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesse 👋
 
-# I am a current Comp Sci student at Clemson University <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1200px-Clemson_Tigers_logo.svg.png" />
+## I am a current Comp Sci student at Clemson University <img align="right" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1200px-Clemson_Tigers_logo.svg.png" />
 
 - I am a sophomore at Clemson
 - I spend most of my free time at the gym
