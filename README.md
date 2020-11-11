@@ -1,4 +1,4 @@
-### Hi there, I'm pablo
+### Hi there, I'm Jesse
 
 ## I am a current Comp Sci student at Clemson University <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1200px-Clemson_Tigers_logo.svg.png" />
 
