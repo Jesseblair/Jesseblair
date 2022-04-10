@@ -1,8 +1,8 @@
 ### Hi there, I'm Jesse
 
-## I am a current Comp Sci student at Clemson University <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1200px-Clemson_Tigers_logo.svg.png" />
+## I am a current Agriculture Mechanization student at Clemson University <img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1200px-Clemson_Tigers_logo.svg.png" />
 
-- I am a sophomore at Clemson
+- I am a Junior at Clemson
 - I spend most of my free time at the gym
 - I love to work on new projects
 
