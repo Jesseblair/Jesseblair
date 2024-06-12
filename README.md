@@ -20,6 +20,3 @@
 <br />
 <br /
 
-[twitter]: https://twitter.com/AjaxGaming_
-[youtube]: https://www.youtube.com/channel/UCGkEWsPDgJPa5lIUoX_m5xw
-[instagram]: https://instagram.com/_jesseblair
